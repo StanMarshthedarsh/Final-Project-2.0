@@ -1,4 +1,5 @@
 # Code from https://pdfminersix.readthedocs.io/en/latest/tutorial/composable.html (pdf miner documentation)
+# pandiwa.pdf file courtesy of Pia Noche, https://samutsamot.com/wp-content/uploads/2014/11/mga-pandiwa-sa-ibat-ibang-panahunan1-1.pdf, https://samutsamot.com/2014/11/25/list-of-filipino-verbs-pandiwa/
 # Writes a text file containing all the words in the pandiwa file. (Will add verb tenses to the spell checker)
 
 from io import StringIO
